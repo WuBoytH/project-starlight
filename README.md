@@ -1,8 +1,6 @@
 # Project Starlight
 A skyline plugin to visualize in-game data.
 
-This plugin was originally created by @blu-dev.
-
 ## Installation
 Place the downloaded plugin into `atmosphere/contents/01006A800016E000/romfs/skyline/plugins/`.
 
